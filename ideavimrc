@@ -1,0 +1,13 @@
+set visualbell
+set noerrorbells
+
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+
+" set easymotion
+
+set NERDTree
+nnoremap <C-t> :NERDTree<CR>
+nnoremap <C-c> :NERDTreeClose<CR>
