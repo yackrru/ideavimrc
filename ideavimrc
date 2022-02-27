@@ -7,7 +7,7 @@ set incsearch
 set hlsearch
 
 set easymotion
-let mapleader = "."
+let mapleader = ";"
 
 set NERDTree
 nnoremap <C-t> :NERDTree<CR>
